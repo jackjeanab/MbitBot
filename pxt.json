@@ -4,7 +4,6 @@
     "description": "MbitBot",
     "license": "MIT",
     "dependencies": {
-        "NeoPixel": "github:microsoft/pxt-neopixel",
         "OLED": "github:makecode-extensions/oled12864_i2c"
     },
     "files": [
