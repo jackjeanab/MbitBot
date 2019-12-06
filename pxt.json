@@ -4,7 +4,7 @@
     "description": "MbitBot",
     "license": "MIT",
     "dependencies": {
-        "OLED": "github:makecode-extensions/oled12864_i2c"
+        "core": "*"
     },
     "files": [
         "README.md",
